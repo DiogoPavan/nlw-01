@@ -14,4 +14,6 @@ app.use(routes);
 app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads')));
 
 app.use(errors());
-app.listen(process.env.APP_PORT);
+app.listen(process.env.APP_PORT, () => {
+  console.log(`Servidor rodando na porta: ${process.env.APP_PORT}`);
+});
