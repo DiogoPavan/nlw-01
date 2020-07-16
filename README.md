@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Ecoleta é um projeto desenvolvido durante a [Next Level Week da Rocketseat](https://nextlevelweek.com/). O objetivo é conectar pessoas com estabelecimentos que coletam resíduos parar reciclagem.
+Ecoleta é um projeto desenvolvido durante a [Next Level Week da Rocketseat](https://nextlevelweek.com/). O objetivo é conectar pessoas com estabelecimentos que coletam resíduos para reciclagem.
 
 ## 📄 Layout
 
